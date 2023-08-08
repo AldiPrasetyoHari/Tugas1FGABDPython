@@ -1,6 +1,6 @@
 # Tugas1FGABDPython
 Title : Tingkat stress di beberapa bidang pekerjaan.
-Tujuan dari projek ini adalah untuk mengetahui tingkat stress yang terjadi di beberapa bidang pekerjaan dan mengetahui variabel yang berkorelasi dengan terjadinya tingkat stress.
+Tujuan dari projek ini adalah untuk mengetahui tingkat stress yang terjadi di beberapa bidang pekerjaan dan mengetahui variabel yang berkorelasi dengan terjadinya tingkat stress.</br>
 Seperti yang kita ketahui, terdapat banyak bidang pekerjaan dimana tingkat stress pada setiap bidang pekerjaan tersebut tentu bervariasi dan memiliki parameter latar belakang tertentu yang menjadi penyebabnya. Jika kita lihat sekilas bidang pekerjaan mana yang mengalami stress paling tinggi maka jawaban yang terkait dengan asumsi pasti akan bervariasi. Sebagai contoh, mungkin orang akan lebih menilai bidang programmer memiliki tingkat stress tertinggi karena kebanyakan orang melihat mereka hanya duduk dan fokus menatap laptop untuk ngoding. Namun opini tersebut bisa jadi terbantahkan berdasarkan data yang kita miliki. Perlu diketahui juga, faktor kondisi biologis seseorang juga dapat berpengaruh terhadap tingkat stress yang akan dialami seperti indeks masa tubuh, waktu tidur, tekanan darah, dan lain sebagainya.
 Berikut adalah data-data yang digunakan pada projek ini :
 Person ID: An identifier for each individual.
