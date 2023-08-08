@@ -1,7 +1,8 @@
 # Tugas1FGABDPython
-Title : Tingkat stress di beberapa bidang pekerjaan.</br>
+<h1>
+<h1>Analisis stress level di beberapa bidang pekerjaan</h1></br>
 Tujuan dari projek ini adalah untuk mengetahui tingkat stress yang terjadi di beberapa bidang pekerjaan dan mengetahui variabel yang berkorelasi dengan terjadinya tingkat stress.</br>
-Seperti yang kita ketahui, terdapat banyak bidang pekerjaan dimana tingkat stress pada setiap bidang pekerjaan tersebut tentu bervariasi dan memiliki parameter latar belakang tertentu yang menjadi penyebabnya. Jika kita lihat sekilas bidang pekerjaan mana yang mengalami stress paling tinggi maka jawaban yang terkait dengan asumsi pasti akan bervariasi. Sebagai contoh, mungkin orang akan lebih menilai bidang programmer memiliki tingkat stress tertinggi karena kebanyakan orang melihat mereka hanya duduk dan fokus menatap laptop untuk ngoding. Namun opini tersebut bisa jadi terbantahkan berdasarkan data yang kita miliki. Perlu diketahui juga, faktor kondisi biologis seseorang juga dapat berpengaruh terhadap tingkat stress yang akan dialami seperti indeks masa tubuh, waktu tidur, tekanan darah, dan lain sebagainya.</br>
+Seperti yang kita ketahui, terdapat banyak bidang pekerjaan dimana tingkat stress pada setiap bidang pekerjaan tersebut tentu bervariasi dan memiliki parameter latar belakang tertentu yang menjadi penyebabnya. Jika kita lihat sekilas bidang pekerjaan mana yang mengalami stress paling tinggi maka jawaban yang terkait dengan asumsi pasti akan bervariasi. Sebagai contoh, mungkin orang akan lebih menilai bidang programmer memiliki tingkat stress tertinggi karena kebanyakan orang melihat mereka hanya duduk dan fokus menatap laptop untuk ngoding. Namun opini tersebut bisa jadi terbantahkan berdasarkan data yang kita miliki. Perlu diketahui juga, faktor kondisi biologis seseorang juga dapat berpengaruh terhadap tingkat stress yang akan dialami seperti indeks masa tubuh, waktu tidur, tekanan darah, dan lain sebagainya.</br></br>
 Berikut adalah data-data yang digunakan pada projek ini :</br>
 Person ID: An identifier for each individual.</br>
 Gender: The gender of the person (Male/Female).</br>
@@ -18,10 +19,9 @@ Daily Steps: The number of steps the person takes per day.</br>
 Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).</br>
 
 Details about Sleep Disorder Column:</br>
-
 None: The individual does not exhibit any specific sleep disorder.</br>
 Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.</br>
-Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.</br>
+Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.</br></br>
 
 Blood pressure category didefinisikan ulang dalam nilai numerik yakni atau dengan istilah lain disebut sebagai normalisasi untuk mengubah data label menjadi numerik :</br>
 1->Normal</br>
